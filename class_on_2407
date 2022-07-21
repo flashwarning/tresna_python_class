@@ -1,1 +1,7 @@
 
+print("***********School Exam Results**************")
+mat=input("Enter marks in Maths")
+eng=input("Enter marks in English")
+sci=input("Enter marks in Science")
+guj=input("Enter marks in Gujarati")
+spo=input("Enter marks in Sports")
